@@ -7,3 +7,4 @@ build/
 
 # Local assistant working notes, not for the public repo
 CLAUDE.md
+.claude/
