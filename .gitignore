@@ -4,3 +4,6 @@ build/
 .idea/
 .DS_Store
 !gradle/wrapper/gradle-wrapper.jar
+
+# Local assistant working notes, not for the public repo
+CLAUDE.md
